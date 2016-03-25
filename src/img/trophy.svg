@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="64" height="64"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_2_)">
+		<defs>
+			<rect id="SVGID_3_" width="64" height="64"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  overflow="visible"/>
+		</clipPath>
+		<path clip-path="url(#SVGID_4_)" fill="#C75C5C" d="M64,32c0,17.673-14.327,32-32,32S0,49.673,0,32S14.327,0,32,0S64,14.327,64,32
+			"/>
+		<g opacity="0.2" clip-path="url(#SVGID_4_)">
+			<g>
+				<defs>
+					<rect id="SVGID_5_" x="16" y="50" width="32" height="4"/>
+				</defs>
+				<clipPath id="SVGID_6_">
+					<use xlink:href="#SVGID_5_"  overflow="visible"/>
+				</clipPath>
+				<path clip-path="url(#SVGID_6_)" fill="#231F20" d="M48,52c0,1.105-0.895,2-2,2H18c-1.105,0-2-0.895-2-2s0.895-2,2-2h28
+					C47.105,50,48,50.895,48,52"/>
+			</g>
+		</g>
+		<path clip-path="url(#SVGID_4_)" fill="#E0995E" d="M36,45c0,1.657-1.343,3-3,3h-2c-1.657,0-3-1.343-3-3V35c0-1.657,1.343-3,3-3h2
+			c1.657,0,3,1.343,3,3V45z"/>
+		<g opacity="0.2" clip-path="url(#SVGID_4_)">
+			<g>
+				<defs>
+					<rect id="SVGID_7_" x="12" y="14" width="40" height="20"/>
+				</defs>
+				<clipPath id="SVGID_8_">
+					<use xlink:href="#SVGID_7_"  overflow="visible"/>
+				</clipPath>
+				<path clip-path="url(#SVGID_8_)" fill="#231F20" d="M41,34c-1.104,0-2-0.896-2-2c0-1.104,0.896-2,2-2c3.178,0,7-5.49,7-8.939
+					C48,18.349,48,18,44,18H20c-4,0-4,0.349-4,3.061C16,24.51,19.822,30,23,30c1.104,0,2,0.896,2,2c0,1.104-0.896,2-2,2
+					c-5.562,0-11-7.409-11-12.939C12,14.54,15.784,14,20,14h24c4.216,0,8,0.54,8,7.061C52,26.591,46.562,34,41,34"/>
+			</g>
+		</g>
+		<path clip-path="url(#SVGID_4_)" fill="#E0995E" d="M41,32c-1.104,0-2-0.896-2-2s0.896-2,2-2c3.178,0,7-5.49,7-8.938
+			C48,16.349,48,16,44,16H20c-4,0-4,0.349-4,3.062C16,22.51,19.822,28,23,28c1.104,0,2,0.896,2,2s-0.896,2-2,2
+			c-5.562,0-11-7.408-11-12.938C12,12.54,15.784,12,20,12h24c4.216,0,8,0.54,8,7.062C52,24.592,46.562,32,41,32"/>
+		<path clip-path="url(#SVGID_4_)" fill="#F5CF87" d="M18.042,12C18.653,31.911,26.432,36,32,36c5.569,0,13.348-4.089,13.958-24
+			H18.042z"/>
+		<path clip-path="url(#SVGID_4_)" fill="#F5CF87" d="M43.704,50.254C42.509,46.677,37.727,44,32,44
+			c-5.726,0-10.508,2.677-11.704,6.254H43.704z"/>
+		<path clip-path="url(#SVGID_4_)" fill="#4F5D73" d="M48,50c0,1.105-0.895,2-2,2H18c-1.105,0-2-0.895-2-2s0.895-2,2-2h28
+			C47.105,48,48,48.895,48,50"/>
+		<g opacity="0.2" clip-path="url(#SVGID_4_)">
+			<g>
+				<defs>
+					<rect id="SVGID_9_" x="26" y="40" width="12" height="4"/>
+				</defs>
+				<clipPath id="SVGID_10_">
+					<use xlink:href="#SVGID_9_"  overflow="visible"/>
+				</clipPath>
+				<path clip-path="url(#SVGID_10_)" fill="#231F20" d="M38,42c0,1.105-0.895,2-2,2h-8c-1.105,0-2-0.895-2-2s0.895-2,2-2h8
+					C37.105,40,38,40.895,38,42"/>
+			</g>
+		</g>
+		<path clip-path="url(#SVGID_4_)" fill="#F5CF87" d="M38,40c0,1.105-0.895,2-2,2h-8c-1.105,0-2-0.895-2-2s0.895-2,2-2h8
+			C37.105,38,38,38.895,38,40"/>
+		<g opacity="0.2" clip-path="url(#SVGID_4_)">
+			<g>
+				<defs>
+					<rect id="SVGID_11_" x="16" y="14" width="32" height="4"/>
+				</defs>
+				<clipPath id="SVGID_12_">
+					<use xlink:href="#SVGID_11_"  overflow="visible"/>
+				</clipPath>
+				<path clip-path="url(#SVGID_12_)" fill="#231F20" d="M48,16c0,1.105-0.895,2-2,2H18c-1.105,0-2-0.895-2-2s0.895-2,2-2h28
+					C47.105,14,48,14.895,48,16"/>
+			</g>
+		</g>
+		<path clip-path="url(#SVGID_4_)" fill="#F5CF87" d="M48,14c0,1.105-0.895,2-2,2H18c-1.105,0-2-0.895-2-2s0.895-2,2-2h28
+			C47.105,12,48,12.895,48,14"/>
+	</g>
+</g>
+</svg>
