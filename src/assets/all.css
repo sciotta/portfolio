@@ -885,7 +885,7 @@ html, body, .content-wrap {
     right: .5em;
     bottom: .5em;
     left: .5em;
-    background: linear-gradient(#fffce1 20%, transparent 20%, transparent 40%, #fffce1 40%, #fffce1 60%, transparent 60%, transparent 80%, #fffce1 80%);
+    background: linear-gradient(#fff 20%, transparent 20%, transparent 40%, #fff 40%, #fff 60%, transparent 60%, transparent 80%, #fff 80%);
     content: ''
 }
 
@@ -2057,6 +2057,7 @@ p.dummy-text:nth-child(3) {
 
 #contato .contact-items i{
     color: #fff;
+    padding: 5px;
 }
 
 

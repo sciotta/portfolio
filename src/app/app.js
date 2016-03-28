@@ -7,6 +7,7 @@
 		    WORKS: 'Trabalhos',
 		    PROJECTS: 'Projetos',
 		    MY_NAME: 'Meu nome é Thiago',
+				CONTACT: 'Contato',
 				MY_DRIBBBLE_JOBS: 'Meus últimos Dribbbles',
 				MY_DESCRIPTION: 'Sou um aficionado por tecnologia e seus meios. Busco tornar projetos em soluções <span class="semi-bold">inteligentes</span> e <span class="semi-bold">robustas</span> ,porém <span class="semi-bold">simples</span> e <span class="semi-bold">amigáveis</span>.'
 		  });
