@@ -4,13 +4,18 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Portfólio Thiago Sciotta">
     <title>Thiago Sciotta</title>
-    <link rel="stylesheet" href="../node_modules/angular/angular-csp.css">
-    <link href="http://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
-    <link rel="stylesheet" href="assets/all.css">
 
-    <script src="app/modernizr.custom.js"></script>
+    <link href="http://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet" type="text/css">
+
+    <!-- build:css assets/css/app.css -->
+    <link rel="stylesheet" href="../node_modules/angular/angular-csp.css">
+    <link rel="stylesheet" href="../node_modules/font-awesome/css/font-awesome.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <!-- endbuild -->
+
+    <script src="assets/js/modernizr.custom.js"></script>
 </head>
 <body ng-cloak ng-controller="PortfolioController" ng-class="{ 'show-menu': showMenu }" id="body">
 <button class="menu-button" ng-click="toggleMenu()"></button>
@@ -104,7 +109,7 @@
                         <div class="col-2" style="max-width: 980px; margin: 0 auto">
                             <div class="column">
                                 <div class="panel">
-             <meta charset="UTF-8">                       <div class="header"><img src="img/profile.svg" width="150" height="150">
+             <meta charset="UTF-8">                       <div class="header"><img src="assets/img/profile.svg" width="150" height="150">
                                         <h3>Sobre mim</h3></div>
                                     <div class="panel-content">
                                         <p>Busco encontrar a forma perfeita de tornar uma solução tecnológica em algo que traga valor e praticidade à vida das pessoas.</p>
@@ -113,17 +118,17 @@
                             </div>
                             <div class="column">
                                 <div class="panel">
-                                    <div class="header"><img src="img/code.svg" width="150" height="150">
+                                    <div class="header"><img src="assets/img/code.svg" width="150" height="150">
                                         <h3>Tecnologias</h3></div>
                                     <div class="panel-content">
-                                        <p>Desenvolvimento WEB utilizando a plataforma <strong>ASP.NET</strong> para o back-end e <strong>HTML5</strong>, <strong>jQuery</strong> e <strong>AngularJS</strong> para o front-end.</p>
+                                        <p>Desenvolvimento WEB utilizando a plataforma <strong>ASP.NET</strong>, <strong>NodeJS (javascript)</strong> para o back-end e <strong>HTML5</strong>, <strong>BackboneJS</strong> e <strong>AngularJS</strong> para o front-end.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-2">
                                 <div class="column">
                                     <div class="panel">
-                                        <div class="header"><img src="img/books.svg" width="150" height="150">
+                                        <div class="header"><img src="assets/img/books.svg" width="150" height="150">
                                             <h3>Estudos</h3></div>
                                         <div class="panel-content">
                                             <p>Busco conhecimento a partir de experiências e certificações. Sou MCP (<strong>Microsoft Certified Professional</strong>) em desenvolvimento WEB.</p>
@@ -132,7 +137,7 @@
                                 </div>
                                 <div class="column">
                                     <div class="panel">
-                                        <div class="header"><img src="img/trophy.svg" width="150" height="150">
+                                        <div class="header"><img src="assets/img/trophy.svg" width="150" height="150">
                                             <h3>Experiências</h3></div>
                                         <div class="panel-content">
                                             <p>Metodologia ágil como o <strong>Scrum</strong> e <strong>Kanban</strong>, versionamento através do <strong>Git</strong> e <strong>SVN</strong> bem como <strong>unit-tests</strong> e <strong>system-tests</strong>.</p>
@@ -195,7 +200,7 @@
                 </svg>
             </div>
             <section class="footer">
-                <div style="height: 240px;background: url('img/mcp.png') no-repeat center">
+                <div style="height: 240px;background: url('assets/img/mcp.png') no-repeat center">
                     <div style="padding-top: 10px"></div>
                 </div>
             </section>
@@ -207,18 +212,23 @@
     </div>
 </div>
 
-   <script type="text/javascript" src="../node_modules/jquery/dist/jquery.js"></script>
-   <script type="text/javascript" src="app/transitions.js"></script>
+<!-- build:js assets/js/transations.min.js -->
+<script type="text/javascript" src="../node_modules/jquery/dist/jquery.js"></script>
+<script type="text/javascript" src="assets/js/transitions.js"></script>
+<!-- endbuild -->
 
-   <script type="text/javascript" src="../node_modules/angular/angular.js"></script>
-   <script type="text/javascript" src="../node_modules/angular-resource/angular-resource.js"></script>
-   <script type="text/javascript" src="../node_modules/angular-sanitize/angular-sanitize.min.js"></script>
-	<script type="text/javascript" src="../node_modules/angular-translate/dist/angular-translate.js"></script>
-	<script type="text/javascript" src="../node_modules/@iamadamjowett/angular-click-outside/clickoutside.directive.js"></script>
-	<script type="text/javascript" src="../node_modules/angular-scroll/angular-scroll.js"></script>
+<!-- build:js assets/js/app.min.js -->
+<script type="text/javascript" src="../node_modules/angular/angular.js"></script>
+<script type="text/javascript" src="../node_modules/angular-resource/angular-resource.js"></script>
+<script type="text/javascript" src="../node_modules/angular-sanitize/angular-sanitize.min.js"></script>
+<script type="text/javascript" src="../node_modules/angular-translate/dist/angular-translate.js"></script>
+<script type="text/javascript" src="../node_modules/@iamadamjowett/angular-click-outside/clickoutside.directive.js"></script>
+<script type="text/javascript" src="../node_modules/angular-scroll/angular-scroll.js"></script>
 
-	<script type="text/javascript" src="app/app.js"></script>
-	<script type="text/javascript" src="app/dribbble-shots.js"></script>
-	<script type="text/javascript" src="app/controller.js"></script>
+<script type="text/javascript" src="app/app.js"></script>
+<script type="text/javascript" src="app/dribbble-shots.js"></script>
+<script type="text/javascript" src="app/controller.js"></script>
+<!-- endbuild -->
+
 </body>
 </html>
