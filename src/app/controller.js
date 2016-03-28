@@ -4,7 +4,9 @@
     .module('portfolioApp')
     .controller('PortfolioController', function ($scope, $document, DribbbleShots) {
 
-      DribbbleShots.query();
+      DribbbleShots.query().$promise.then(function(shots) {
+        $scope.shots = shots;
+      });
 
       $scope.showMenu = false;
 

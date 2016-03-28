@@ -3,4 +3,4 @@ var app = express();
 
 app.use(express.static('.'));
 
-app.listen(process.env.PORT || 8080);
+app.listen(process.env.PORT || 8080, '0.0.0.0');
