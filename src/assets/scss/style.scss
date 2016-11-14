@@ -1425,7 +1425,7 @@ body {
 
 .grid figure, .grid .placeholder {
   width: 340px;
-  height: 300px
+  height: 255px;
 }
 
 .grid figure {
@@ -1664,7 +1664,7 @@ p.dummy-text:nth-child(3) {
 @media screen and (max-width: 1000px) {
   .grid figure, .grid .placeholder {
     width: 240px;
-    height: 212px
+    height: 180px;
   }
 }
 
